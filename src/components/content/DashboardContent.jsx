@@ -11,6 +11,7 @@ const DashboardContent = () => {
     { url: '/img/wrapper/inventory/bg(6).png', use: false },
     { url: '/img/wrapper/inventory/bg(7).png', use: false },
     { url: '/img/wrapper/inventory/bg(8).png', use: false },
+    { url: '/img/wrapper/inventory/bg(9).png', use: true },
   ];
 
   return (
