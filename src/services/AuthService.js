@@ -1,7 +1,7 @@
 import Axios from '../utils/axios'
 import { baseApiUrl } from '../utils/constants'
 export const endpointUrl = url => `${baseApiUrl}${url}`
-
+//admin API
 export const fetchAdminLogin = data => {
   return Axios.get(endpointUrl('auth/adminlogin'), { adminUsername:data.adminUsername, password: data.password })
 }
