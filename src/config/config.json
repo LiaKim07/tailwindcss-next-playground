@@ -3,5 +3,6 @@
     "app_name": "playgoldmand",
     "app_url": "http://dev.goldmand.io",
     "api_endpoint": "https://api.hivebp.io",
-    "limit": 12
+    "limit": 12,
+    "other": 20,
 }
